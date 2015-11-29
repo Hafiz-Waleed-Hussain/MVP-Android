@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVC</string>
+    <string name="login">Login</string>
+    <string name="successfully_login_mesage">hurray your are successfully login</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_password">Enter password</string>
+    <string name="empty_username_error">Username is empty</string>
+    <string name="empty_password_error">Empty password</string>
+    <string name="username_or_password_is_incorrect">Username or Password is incorrect</string>
+</resources>
